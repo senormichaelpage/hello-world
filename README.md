@@ -3,5 +3,4 @@ hello-world
 
 miscellaneous stuff
 
-readme-edits is way better than readme
-everyone knows that
+This is a readme, I hope you have enjoyed it.
